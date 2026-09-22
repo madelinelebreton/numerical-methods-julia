@@ -4,7 +4,7 @@ Polynomial interpolation and numerical integration implemented in Julia.
 
 **Implemented**
 - Newton's divided-difference method for polynomial interpolation
-- Composite and adaptive numerical integration rules
+- Composite midpoint, trapezoidal, and Simpson's rules
 
 **Files**
 - `madeline_lebreton_a3.jl` — implementation
