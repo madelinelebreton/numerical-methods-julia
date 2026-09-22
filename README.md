@@ -5,9 +5,9 @@ Implementing core numerical methods from scratch in Julia, without relying on bu
 ## Contents
 | Project | Topics |
 |---|---|
-| [Linear Systems](./assignment-1-linear-systems) | Floating-point error analysis, backward substitution, Gaussian elimination, partial pivoting, conditioning |
-| [Eigenvalues & Optimization](./assignment-2-eigenvalues-optimization) | Power method, Newton's method (root-finding & multivariate), SVD, least squares |
-| [Interpolation & Integration](./assignment-3-interpolation-integration) | Newton divided-difference interpolation, composite and adaptive numerical integration |
+| [Linear Systems](./linear-systems) | Floating-point error analysis, backward substitution, Gaussian elimination, partial pivoting, conditioning |
+| [Eigenvalues & Optimization](./eigenvalues-optimization) | Power method, Newton's method (root-finding & multivariate), SVD, least squares |
+| [Interpolation & Integration](./interpolation-integration) | Newton divided-difference interpolation, composite and adaptive numerical integration |
 
 ## Skills 
 - Numerical stability, floating-point error, and conditioning analysis
