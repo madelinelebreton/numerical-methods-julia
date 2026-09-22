@@ -5,8 +5,6 @@ Iterative eigenvalue methods, root-finding, and optimization implemented in Juli
 **Implemented**
 - Power method for extremal eigenvalues of symmetric matrices, with convergence bound via the Bauer–Fike theorem
 - Newton's method for root-finding, extended to the multivariate case
-- SVD-based analysis
-- Least-squares fitting
 - A localization problem solved by comparing Newton and gradient-based methods against beacon position data
 
 **Files**
