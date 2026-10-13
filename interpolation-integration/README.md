@@ -7,4 +7,4 @@ Polynomial interpolation and numerical integration implemented in Julia.
 - Composite midpoint, trapezoidal, and Simpson's rules
 
 **Files**
-- `madeline_lebreton_a3.jl` — implementation
+- `madeline_lebreton_a3.jl`: implementation
