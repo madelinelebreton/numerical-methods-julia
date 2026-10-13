@@ -1,18 +1,17 @@
 # Numerical Methods in Julia
-
-Implementing core numerical methods from scratch in Julia, without relying on built-in solvers.
+Implementing core numerical methods from scratch in Julia, without relying on built in solvers.
 
 ## Contents
 | Project | Topics |
 |---|---|
-| [Linear Systems](./linear-systems) | Floating-point error analysis, backward substitution, Gaussian elimination, partial pivoting, conditioning |
-| [Eigenvalues & Optimization](./eigenvalues-optimization) | Power method, Newton's method (root-finding & multivariate), SVD, least squares |
-| [Interpolation & Integration](./interpolation-integration) | Newton divided-difference interpolation, composite and adaptive numerical integration |
+| [Linear Systems](./linear-systems) | Floating point error analysis, backward substitution, Gaussian elimination, partial pivoting, conditioning |
+| [Eigenvalues & Optimization](./eigenvalues-optimization) | Power method, Newton's method (root finding & multivariate), least squares |
+| [Interpolation & Integration](./interpolation-integration) | Newton divided difference interpolation, composite and adaptive numerical integration |
 
 ## Skills 
-- Numerical stability, floating-point error, and conditioning analysis
+- Numerical stability, floating point error, and conditioning analysis
 - Direct and iterative linear algebra solvers implemented from first principles
-- Root-finding and unconstrained optimization (Newton's method, gradient methods)
+- Root finding and unconstrained optimization (Newton's method, gradient methods)
 - Interpolation and numerical integration schemes
 - Julia for scientific computing, including error benchmarking and visualization
 
